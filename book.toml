@@ -1,0 +1,7 @@
+[book]
+title = "LLM Smart Contract Vulnerability Research"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/llm-smart-contract-vuln-research"
